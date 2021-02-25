@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Алена Ромащёва</title>
+  <style>
+   p {
+    margin-top: 0.5em; 
+    margin-bottom: 1em; 
+   }
+  </style>
+ </head>
+
+<body>
+
+<h1 align="center">Алёна Ромащёва<br>8 913 016 40 63<br><br></h1> 
+<p align="center"><strong>Bio:</strong><br>QA Junior Engineer<br></p> 
+<p align="center"><strong>Support e-mail:</strong><br>romasheva21@mail.ru<br></p> 
+
+
+</body>
+</html>
